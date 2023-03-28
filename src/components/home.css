@@ -1,0 +1,10 @@
+.imageb{
+    background-image: url(../img/Solvit.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Mouse:hover{
+    /* background-color: rgb(92, 48, 252); */
+   background-color: black;
+
+}
